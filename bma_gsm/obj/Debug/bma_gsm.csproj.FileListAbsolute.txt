@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\bma_gsm\bma_gsm\bin\Debug\bma_gsm.exe.config
+C:\Users\PC\source\repos\bma_gsm\bma_gsm\bin\Debug\bma_gsm.exe
+C:\Users\PC\source\repos\bma_gsm\bma_gsm\bin\Debug\bma_gsm.pdb
+C:\Users\PC\source\repos\bma_gsm\bma_gsm\obj\Debug\bma_gsm.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\bma_gsm\bma_gsm\obj\Debug\bma_gsm.Form1.resources
+C:\Users\PC\source\repos\bma_gsm\bma_gsm\obj\Debug\bma_gsm.Properties.Resources.resources
+C:\Users\PC\source\repos\bma_gsm\bma_gsm\obj\Debug\bma_gsm.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\bma_gsm\bma_gsm\obj\Debug\bma_gsm.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\bma_gsm\bma_gsm\obj\Debug\bma_gsm.exe
+C:\Users\PC\source\repos\bma_gsm\bma_gsm\obj\Debug\bma_gsm.pdb
