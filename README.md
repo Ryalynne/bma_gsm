@@ -1,2 +1,1 @@
-# gsm-laravel
-# bma_gsm
+# gsm-bma
